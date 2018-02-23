@@ -1,0 +1,54 @@
+#main-header{
+    margin: 7px;
+    height: 55px;
+    background-color: rgb(255,153,0);
+}
+
+#logo{
+     max-height: 53px;
+}
+
+#logo-div{
+    display: inline-block;
+    /* border: 1px solid black; */
+}
+
+#user-container{
+    margin-left: 1000px;
+    display: inline-block;
+    width: 150px;
+    /* border: 1px solid black; */
+    height: 55px;
+
+}
+
+#user-name{
+    color: white;
+    font-family: helvetica;
+    margin-left: 10px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    float: left;
+    display: inline;
+}
+
+#user{
+    margin-top:5px;
+    float: left;
+    max-width: 45px;
+}
+
+#format{
+    border:1px solid black;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    color: #FFF;
+    float: left;
+    margin:5px;
+}
