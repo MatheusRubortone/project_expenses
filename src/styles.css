@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 /* You can add global styles to this file, and also import other style files */
 *{
     margin: 0;
     padding: 0;
+=======
+*{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0;
+    list-style-type: none;
+    float: left;
+    background: gainsboro;
+}
+
+img{
+    max-width: 100%;
+>>>>>>> 9acb329cd0f1a33912905d77b38d7f1d35dd61fc
 }
